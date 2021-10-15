@@ -40,3 +40,7 @@
 *pandas*
 
 *matplotlib*
+
+## Если проект не открывается на гитхабе 
+
+https://nbviewer.jupyter.org/github/BlackDragonAB/SharedProjects/blob/main/research_sale_apartments/apartments_project.ipynb
