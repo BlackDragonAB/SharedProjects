@@ -35,3 +35,7 @@
 *matplotlib*
 
 *seaborn*
+
+## Если проект не открывается на гитхабе 
+
+https://nbviewer.jupyter.org/github/BlackDragonAB/SharedProjects/blob/main/predicting_leave_bank_clients/bank_clients_project.ipynb
