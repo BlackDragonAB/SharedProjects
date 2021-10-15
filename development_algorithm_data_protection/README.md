@@ -20,3 +20,7 @@
 *numpy*
 
 *sklearn*
+
+## Если проект не открывается на гитхабе 
+
+https://nbviewer.jupyter.org/github/BlackDragonAB/SharedProjects/blob/main/development_algorithm_data_protection/data_protection_project.ipynb
