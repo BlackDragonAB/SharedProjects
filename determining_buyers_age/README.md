@@ -22,6 +22,6 @@
 
 *tensorflow*
 
-### В случае, если проект не открывается на гитхабе 
+## Если проект не открывается на гитхабе 
 
 https://nbviewer.jupyter.org/github/BlackDragonAB/SharedProjects/blob/main/determining_buyers_age/age_determination_project.ipynb
