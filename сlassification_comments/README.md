@@ -31,3 +31,7 @@
 *catboost*
 
 *pymystem3*
+
+## Если проект не открывается на гитхабе 
+
+https://nbviewer.jupyter.org/github/BlackDragonAB/SharedProjects/blob/main/сlassification_comments/сlassification_comments_project.ipynb
