@@ -46,3 +46,8 @@
 *lightgbm*
 
 *matplotlib*
+
+## Если проект не открывается на гитхабе 
+
+https://nbviewer.jupyter.org/github/BlackDragonAB/SharedProjects/blob/main/determining_price_car/car_price_project.ipynb
+
