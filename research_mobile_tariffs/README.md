@@ -50,3 +50,7 @@
 *matplotlib*
 
 *seaborn*
+
+## Если проект не открывается на гитхабе 
+
+https://nbviewer.jupyter.org/github/BlackDragonAB/SharedProjects/blob/main/research_mobile_tariffs/mobile_tariffs_project.ipynb
