@@ -54,3 +54,7 @@
 *seaborn*
 
 *sklearn*
+
+## Если проект не открывается на гитхабе 
+
+https://nbviewer.jupyter.org/github/BlackDragonAB/SharedProjects/blob/main/prediction_outflow_clients/outflow_clients_project.ipynb
