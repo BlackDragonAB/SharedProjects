@@ -24,3 +24,7 @@
 *matplotlib*
 
 *statsmodels*
+
+## Если проект не открывается на гитхабе 
+
+https://nbviewer.jupyter.org/github/BlackDragonAB/SharedProjects/blob/main/predicting_taxi_orders/taxi_project.ipynb
