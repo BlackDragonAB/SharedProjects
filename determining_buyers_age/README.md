@@ -1,5 +1,3 @@
-[Исследование объявлений о продаже квартир](https://nbviewer.jupyter.org/age_determination_project.ipynb)
-
 # Определение возраста покупателей
 
 ## Данные
@@ -23,3 +21,7 @@
 *matplotlib*
 
 *tensorflow*
+
+### В случае, если проект не открывается на гитхабе 
+
+https://nbviewer.jupyter.org/github/BlackDragonAB/SharedProjects/blob/main/determining_buyers_age/age_determination_project.ipynb
