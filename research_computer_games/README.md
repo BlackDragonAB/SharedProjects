@@ -34,3 +34,7 @@
 *matplotlib*
 
 *seaborn*
+
+## Если проект не открывается на гитхабе 
+
+https://nbviewer.jupyter.org/github/BlackDragonAB/SharedProjects/blob/main/research_computer_games/computer_games_project.ipynb
