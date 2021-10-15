@@ -1,4 +1,4 @@
-[Исследование объявлений о продаже квартир](https://nbviewer.jupyter.org/)
+[Исследование объявлений о продаже квартир](https://nbviewer.jupyter.org/age_determination_project.ipynb)
 
 # Определение возраста покупателей
 
